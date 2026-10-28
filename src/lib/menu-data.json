@@ -1,0 +1,1172 @@
+[
+ {
+  "id": "pastries-blueberry-cheesecake",
+  "name": "Blueberry Cheesecake",
+  "category": "pastries",
+  "categoryLabel": "Pastries",
+  "description": "Creamy New York-style cheesecake topped with sweet blueberry compote. Rich, smooth, and perfectly tangy.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pastries/blueberry-cheesecake.jpg",
+  "price": 16000,
+  "sizeNote": "slice",
+  "sizes": []
+ },
+ {
+  "id": "pastries-cookies-cream-cheesecake",
+  "name": "Cookies & Cream Cheesecake",
+  "category": "pastries",
+  "categoryLabel": "Pastries",
+  "description": "Velvety cheesecake loaded with crushed chocolate sandwich cookies. A cookies lover's dream dessert.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pastries/cookies-cream-cheesecake.jpg",
+  "price": 16000,
+  "sizeNote": "slice",
+  "sizes": []
+ },
+ {
+  "id": "pastries-classic-brownie",
+  "name": "Classic Brownie",
+  "category": "pastries",
+  "categoryLabel": "Pastries",
+  "description": "Dense, fudgy chocolate brownie with a crackly top. Deep chocolate flavor in every bite.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pastries/classic-brownie.jpg",
+  "price": 5500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "pastries-chewy-caramel-bar",
+  "name": "Chewy Caramel Bar",
+  "category": "pastries",
+  "categoryLabel": "Pastries",
+  "description": "Soft, chewy bar with buttery caramel filling. Sweet, gooey, and utterly irresistible.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pastries/caramel-bar.jpg",
+  "price": 6000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "pastries-sticky-cinnamon-bun",
+  "name": "Sticky Cinnamon Bun",
+  "category": "pastries",
+  "categoryLabel": "Pastries",
+  "description": "Warm, soft bun swirled with cinnamon sugar and glazed with cream cheese frosting. Pure comfort.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pastries/cinnamon-bun.jpg",
+  "price": 9000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "pastries-chocolate-chip-cookie",
+  "name": "Chocolate Chip Cookie",
+  "category": "pastries",
+  "categoryLabel": "Pastries",
+  "description": "Classic chewy cookie loaded with semi-sweet chocolate chips. Crispy edges, soft center.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pastries/chocolate-chip-cookie.jpg",
+  "price": 6000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "pastries-chocolate-chip-cookie-w-walnut",
+  "name": "Chocolate Chip Cookie w/ Walnut",
+  "category": "pastries",
+  "categoryLabel": "Pastries",
+  "description": "Chewy chocolate chip cookie with crunchy walnut pieces. Nutty, chocolatey, and perfectly balanced.",
+  "allergens": "milk, egg, gluten, nuts",
+  "image": "/assets/products/pastries/chocolate-chip-cookie-walnut.webp",
+  "price": 6500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "pizza-hawaiian-pizza",
+  "name": "Hawaiian Pizza",
+  "category": "pizza",
+  "categoryLabel": "Pizza",
+  "description": "Solo size (6.5\") pizza topped with ham, pineapple chunks, and mozzarella cheese. Sweet and savory.",
+  "allergens": "milk, gluten",
+  "image": "/assets/products/pizza/hawaiian-pizza.jpg",
+  "price": 12500,
+  "sizeNote": "Solo 6.5\"",
+  "sizes": []
+ },
+ {
+  "id": "pizza-pepperoni-pizza",
+  "name": "Pepperoni Pizza",
+  "category": "pizza",
+  "categoryLabel": "Pizza",
+  "description": "Solo size (6.5\") pizza loaded with spicy pepperoni slices and melted mozzarella. A timeless classic.",
+  "allergens": "milk, gluten",
+  "image": "/assets/products/pizza/pepperoni-pizza.jpg",
+  "price": 12500,
+  "sizeNote": "Solo 6.5\"",
+  "sizes": []
+ },
+ {
+  "id": "pizza-bacon-mushroom-pizza",
+  "name": "Bacon Mushroom Pizza",
+  "category": "pizza",
+  "categoryLabel": "Pizza",
+  "description": "Solo size (6.5\") pizza with crispy bacon, sautéed mushrooms, and mozzarella. Smoky and earthy.",
+  "allergens": "milk, gluten",
+  "image": "/assets/products/pizza/bacon-mushroom-pizza.jpg",
+  "price": 12500,
+  "sizeNote": "Solo 6.5\"",
+  "sizes": []
+ },
+ {
+  "id": "pizza-spinach-w-cream-cheese-pizza",
+  "name": "Spinach w/ Cream Cheese Pizza",
+  "category": "pizza",
+  "categoryLabel": "Pizza",
+  "description": "Solo size (6.5\") pizza with fresh spinach, creamy cream cheese, and mozzarella. Unique and delicious.",
+  "allergens": "milk, gluten",
+  "image": "/assets/products/pizza/spinach-w-cream-cheese-pizza.jpg",
+  "price": 12500,
+  "sizeNote": "Solo 6.5\"",
+  "sizes": []
+ },
+ {
+  "id": "pasta-tuna-pesto",
+  "name": "Tuna Pesto",
+  "category": "pasta",
+  "categoryLabel": "Pasta",
+  "description": "Al dente pasta tossed in homemade basil pesto with flaky tuna chunks. Herbaceous and savory.",
+  "allergens": "milk, gluten, nuts",
+  "image": "/assets/products/pasta/tuna-pesto.jpg",
+  "price": 12500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "pasta-lasagna",
+  "name": "Lasagna",
+  "category": "pasta",
+  "categoryLabel": "Pasta",
+  "description": "Layers of pasta sheets, rich meat sauce, béchamel, and melted cheese. Baked until golden and bubbly.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pasta/lasagna.webp",
+  "price": 12500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "pasta-carbonara",
+  "name": "Carbonara",
+  "category": "pasta",
+  "categoryLabel": "Pasta",
+  "description": "Creamy pasta with bacon bits, parmesan cheese, and egg-based sauce. Rich, silky, and indulgent.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/pasta/carbonara.jpg",
+  "price": 12500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "rice-meals-chicken-ala-king",
+  "name": "Chicken Ala King",
+  "category": "rice-meals",
+  "categoryLabel": "Rice Meals",
+  "description": "Tender chicken pieces in creamy sauce with vegetables, served over steaming white rice. Hearty and filling.",
+  "allergens": "milk, gluten",
+  "image": "/assets/products/rice-meals/chicken-ala-king.jpg",
+  "price": 14000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "rice-meals-beef-mushroom",
+  "name": "Beef & Mushroom",
+  "category": "rice-meals",
+  "categoryLabel": "Rice Meals",
+  "description": "Sliced beef sautéed with mushrooms in a savory brown sauce, served with rice. Rich and satisfying.",
+  "allergens": "gluten",
+  "image": "/assets/products/rice-meals/beef-mushroom-rice-meal.jpg",
+  "price": 14000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "starters-french-fries",
+  "name": "French Fries",
+  "category": "starters",
+  "categoryLabel": "Starters",
+  "description": "Golden, crispy potato fries seasoned to perfection. The ultimate comfort snack.",
+  "allergens": "",
+  "image": "/assets/products/starters/french-fries.jpg",
+  "price": 11000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "starters-mozzarella-sticks",
+  "name": "Mozzarella Sticks",
+  "category": "starters",
+  "categoryLabel": "Starters",
+  "description": "Golden-fried mozzarella sticks with a crispy breadcrumb coating. Gooey cheese inside, crunchy outside.",
+  "allergens": "milk, egg, gluten",
+  "image": "/assets/products/starters/mozzarella-sticks.jpg",
+  "price": 17000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "hot-coffee-hazelnut",
+  "name": "Hazelnut",
+  "category": "hot-coffee",
+  "categoryLabel": "Hot Coffee",
+  "description": "Rich hazelnut-flavored hot coffee. Nutty, warm, and aromatic.",
+  "allergens": "milk, nuts",
+  "image": "/assets/products/hot-coffee/hazelnut-hot.jpg",
+  "price": 8000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 8000
+   },
+   {
+    "label": "Large",
+    "price": 9000
+   }
+  ]
+ },
+ {
+  "id": "hot-coffee-vanilla",
+  "name": "Vanilla",
+  "category": "hot-coffee",
+  "categoryLabel": "Hot Coffee",
+  "description": "Sweet vanilla-infused hot coffee. Smooth, fragrant, and comforting.",
+  "allergens": "milk",
+  "image": "/assets/products/hot-coffee/vanilla-latte.jpg",
+  "price": 8000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 8000
+   },
+   {
+    "label": "Large",
+    "price": 9000
+   }
+  ]
+ },
+ {
+  "id": "hot-coffee-caramel",
+  "name": "Caramel",
+  "category": "hot-coffee",
+  "categoryLabel": "Hot Coffee",
+  "description": "Buttery caramel-flavored hot coffee. Sweet, rich, and indulgent.",
+  "allergens": "milk",
+  "image": "/assets/products/hot-coffee/caramel.jpg",
+  "price": 8000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 8000
+   },
+   {
+    "label": "Large",
+    "price": 9000
+   }
+  ]
+ },
+ {
+  "id": "hot-coffee-mocha",
+  "name": "Mocha",
+  "category": "hot-coffee",
+  "categoryLabel": "Hot Coffee",
+  "description": "Chocolate and espresso blended with steamed milk. A classic mocha lovers' favorite.",
+  "allergens": "milk",
+  "image": "/assets/products/hot-coffee/mocha-hot.jpg",
+  "price": 8000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 8000
+   },
+   {
+    "label": "Large",
+    "price": 9000
+   }
+  ]
+ },
+ {
+  "id": "hot-coffee-butterscotch",
+  "name": "Butterscotch",
+  "category": "hot-coffee",
+  "categoryLabel": "Hot Coffee",
+  "description": "Sweet butterscotch-flavored hot coffee. Creamy, caramelized, and delightful.",
+  "allergens": "milk",
+  "image": "/assets/products/hot-coffee/butterscotch-hot.jpg",
+  "price": 8000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 8000
+   },
+   {
+    "label": "Large",
+    "price": 9000
+   }
+  ]
+ },
+ {
+  "id": "hot-coffee-double-chocolate",
+  "name": "Double Chocolate",
+  "category": "hot-coffee",
+  "categoryLabel": "Hot Coffee",
+  "description": "Double dose of rich chocolate blended with hot coffee. Deep, intense, and chocolatey.",
+  "allergens": "milk",
+  "image": "/assets/products/hot-coffee/double-chocolate.jpg",
+  "price": 8000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 8000
+   },
+   {
+    "label": "Large",
+    "price": 9000
+   }
+  ]
+ },
+ {
+  "id": "hot-coffee-hot-chocolate",
+  "name": "Hot Chocolate",
+  "category": "hot-coffee",
+  "categoryLabel": "Hot Coffee",
+  "description": "Premium cocoa blended with steamed milk. Warm, velvety, and pure chocolate bliss.",
+  "allergens": "milk",
+  "image": "/assets/products/hot-coffee/hot-chocolate.jpg",
+  "price": 8000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 8000
+   },
+   {
+    "label": "Large",
+    "price": 9000
+   }
+  ]
+ },
+ {
+  "id": "hot-tea-jasmine-tea",
+  "name": "Jasmine Tea",
+  "category": "hot-tea",
+  "categoryLabel": "Hot Tea",
+  "description": "Fragrant jasmine-scented green tea. Floral, light, and soothing.",
+  "allergens": "",
+  "image": "/assets/products/hot-tea/jasmine-tea.jpg",
+  "price": 8000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "hot-tea-green-tea",
+  "name": "Green Tea",
+  "category": "hot-tea",
+  "categoryLabel": "Hot Tea",
+  "description": "Premium Japanese green tea. Earthy, refreshing, and packed with antioxidants.",
+  "allergens": "",
+  "image": "/assets/products/hot-tea/green-tea.jpg",
+  "price": 8000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "hot-tea-peppermint-tea",
+  "name": "Peppermint Tea",
+  "category": "hot-tea",
+  "categoryLabel": "Hot Tea",
+  "description": "Cool peppermint leaves steeped in hot water. Minty, refreshing, and calming.",
+  "allergens": "",
+  "image": "/assets/products/hot-tea/peppermint-tea.jpg",
+  "price": 8000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "hot-tea-chamomile-tea",
+  "name": "Chamomile Tea",
+  "category": "hot-tea",
+  "categoryLabel": "Hot Tea",
+  "description": "Gentle chamomile flower tea. Relaxing, floral, and perfect for winding down.",
+  "allergens": "",
+  "image": "/assets/products/hot-tea/chamomile-tea.jpg",
+  "price": 8000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "milk-tea-classic-milk-tea",
+  "name": "Classic Milk Tea",
+  "category": "milk-tea",
+  "categoryLabel": "Milk Tea",
+  "description": "The original milk tea. Smooth black tea blended with creamy milk. Simple yet satisfying.",
+  "allergens": "milk",
+  "image": "/assets/products/milk-tea/classic-mtea.jpg",
+  "price": 10000,
+  "sizeNote": "Classic / Large",
+  "sizes": [
+   {
+    "label": "Classic",
+    "price": 10000
+   },
+   {
+    "label": "Large",
+    "price": 12000
+   }
+  ]
+ },
+ {
+  "id": "milk-tea-wintermelon-milk-tea",
+  "name": "Wintermelon Milk Tea",
+  "category": "milk-tea",
+  "categoryLabel": "Milk Tea",
+  "description": "Sweet wintermelon syrup blended with milk tea. Fruity, unique, and refreshing.",
+  "allergens": "milk",
+  "image": "/assets/products/milk-tea/wintermelon-mtea.jpg",
+  "price": 10500,
+  "sizeNote": "Classic / Large",
+  "sizes": [
+   {
+    "label": "Classic",
+    "price": 10500
+   },
+   {
+    "label": "Large",
+    "price": 12500
+   }
+  ]
+ },
+ {
+  "id": "milk-tea-matcha-milk-tea",
+  "name": "Matcha Milk Tea",
+  "category": "milk-tea",
+  "categoryLabel": "Milk Tea",
+  "description": "Premium matcha blended with creamy milk tea. Earthy, smooth, and antioxidant-rich.",
+  "allergens": "milk",
+  "image": "/assets/products/milk-tea/matcha.jpg",
+  "price": 11000,
+  "sizeNote": "Classic / Large",
+  "sizes": [
+   {
+    "label": "Classic",
+    "price": 11000
+   },
+   {
+    "label": "Large",
+    "price": 13000
+   }
+  ]
+ },
+ {
+  "id": "milk-tea-okinawa-milk-tea",
+  "name": "Okinawa Milk Tea",
+  "category": "milk-tea",
+  "categoryLabel": "Milk Tea",
+  "description": "Roasted Okinawa brown sugar milk tea. Caramel-like, rich, and deeply satisfying.",
+  "allergens": "milk",
+  "image": "/assets/products/milk-tea/okinawa-mtea.jpg",
+  "price": 11000,
+  "sizeNote": "Classic / Large",
+  "sizes": [
+   {
+    "label": "Classic",
+    "price": 11000
+   },
+   {
+    "label": "Large",
+    "price": 13000
+   }
+  ]
+ },
+ {
+  "id": "milk-tea-dark-choco-milk-tea",
+  "name": "Dark Choco Milk Tea",
+  "category": "milk-tea",
+  "categoryLabel": "Milk Tea",
+  "description": "Intense dark chocolate blended with milk tea. Bold, cocoa-rich, and indulgent.",
+  "allergens": "milk",
+  "image": "/assets/products/milk-tea/dark-choco-mtea.jpg",
+  "price": 11000,
+  "sizeNote": "Classic / Large",
+  "sizes": [
+   {
+    "label": "Classic",
+    "price": 11000
+   },
+   {
+    "label": "Large",
+    "price": 13000
+   }
+  ]
+ },
+ {
+  "id": "milk-tea-thai-milk-tea",
+  "name": "Thai Milk Tea",
+  "category": "milk-tea",
+  "categoryLabel": "Milk Tea",
+  "description": "Traditional Thai tea blended with milk. Vibrant orange color, sweet and aromatic.",
+  "allergens": "milk",
+  "image": "/assets/products/milk-tea/thai-mtea.jpg",
+  "price": 11000,
+  "sizeNote": "Classic / Large",
+  "sizes": [
+   {
+    "label": "Classic",
+    "price": 11000
+   },
+   {
+    "label": "Large",
+    "price": 13000
+   }
+  ]
+ },
+ {
+  "id": "milk-tea-caramel-milk-tea",
+  "name": "Caramel Milk Tea",
+  "category": "milk-tea",
+  "categoryLabel": "Milk Tea",
+  "description": "Buttery caramel blended with creamy milk tea. Sweet, smooth, and heavenly.",
+  "allergens": "milk",
+  "image": "/assets/products/milk-tea/caramel-mtea.jpg",
+  "price": 11000,
+  "sizeNote": "Classic / Large",
+  "sizes": [
+   {
+    "label": "Classic",
+    "price": 11000
+   },
+   {
+    "label": "Large",
+    "price": 13000
+   }
+  ]
+ },
+ {
+  "id": "iced-coffee-dark-special",
+  "name": "Dark Special",
+  "category": "iced-coffee",
+  "categoryLabel": "Iced Coffee",
+  "description": "Bold dark-roasted iced coffee with a rich, full-bodied flavor. For the true coffee lover.",
+  "allergens": "",
+  "image": "/assets/products/iced-coffee/dark-special.jpg",
+  "price": 13000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 13000
+   },
+   {
+    "label": "Large",
+    "price": 14000
+   }
+  ]
+ },
+ {
+  "id": "iced-coffee-original-blend",
+  "name": "Original Blend",
+  "category": "iced-coffee",
+  "categoryLabel": "Iced Coffee",
+  "description": "Our signature iced coffee blend. Smooth, balanced, and perfectly chilled.",
+  "allergens": "",
+  "image": "/assets/products/iced-coffee/dark-special.jpg",
+  "price": 13000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 13000
+   },
+   {
+    "label": "Large",
+    "price": 14000
+   }
+  ]
+ },
+ {
+  "id": "iced-coffee-choco-twist",
+  "name": "Choco Twist",
+  "category": "iced-coffee",
+  "categoryLabel": "Iced Coffee",
+  "description": "Chocolate-infused iced coffee with a twist. Sweet, creamy, and refreshing.",
+  "allergens": "milk",
+  "image": "/assets/products/iced-coffee/choco-twist.jpg",
+  "price": 13000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 13000
+   },
+   {
+    "label": "Large",
+    "price": 14000
+   }
+  ]
+ },
+ {
+  "id": "iced-coffee-caramel-espresso",
+  "name": "Caramel Espresso",
+  "category": "iced-coffee",
+  "categoryLabel": "Iced Coffee",
+  "description": "Caramel-flavored espresso over ice with a splash of milk. Sweet and energizing.",
+  "allergens": "milk",
+  "image": "/assets/products/iced-coffee/caramel-espresso.jpg",
+  "price": 13000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 13000
+   },
+   {
+    "label": "Large",
+    "price": 14000
+   }
+  ]
+ },
+ {
+  "id": "iced-coffee-hazelnut-latte",
+  "name": "Hazelnut Latte",
+  "category": "iced-coffee",
+  "categoryLabel": "Iced Coffee",
+  "description": "Toasted hazelnut-flavored iced latte. Nutty, smooth, and refreshing.",
+  "allergens": "milk, nuts",
+  "image": "/assets/products/iced-coffee/hazelnut-latte.jpg",
+  "price": 13000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 13000
+   },
+   {
+    "label": "Large",
+    "price": 14000
+   }
+  ]
+ },
+ {
+  "id": "iced-coffee-tiramisu",
+  "name": "Tiramisu",
+  "category": "iced-coffee",
+  "categoryLabel": "Iced Coffee",
+  "description": "Tiramisu-flavored iced coffee with cocoa and cream. Dessert in a cup.",
+  "allergens": "milk",
+  "image": "/assets/products/iced-coffee/tiramisu.jpg",
+  "price": 13000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 13000
+   },
+   {
+    "label": "Large",
+    "price": 14000
+   }
+  ]
+ },
+ {
+  "id": "iced-coffee-dark-mocha",
+  "name": "Dark Mocha",
+  "category": "iced-coffee",
+  "categoryLabel": "Iced Coffee",
+  "description": "Dark chocolate blended with espresso and milk over ice. Rich and indulgent.",
+  "allergens": "milk",
+  "image": "/assets/products/iced-coffee/dark-mocha.jpg",
+  "price": 14000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 14000
+   },
+   {
+    "label": "Large",
+    "price": 15000
+   }
+  ]
+ },
+ {
+  "id": "frappe-original-blend-frappe",
+  "name": "Original Blend Frappe",
+  "category": "frappe",
+  "categoryLabel": "Frappe",
+  "description": "Our signature coffee blended with ice and milk. Smooth, creamy, and perfectly chilled.",
+  "allergens": "milk",
+  "image": "/assets/products/frappe/orig.jpg",
+  "price": 16000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "frappe-choco-twist-frappe",
+  "name": "Choco Twist Frappe",
+  "category": "frappe",
+  "categoryLabel": "Frappe",
+  "description": "Chocolate-flavored blended ice coffee. Sweet, chocolaty, and refreshing.",
+  "allergens": "milk",
+  "image": "/assets/products/frappe/choco-twist.jpg",
+  "price": 16000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "frappe-caramel-espresso-frappe",
+  "name": "Caramel Espresso Frappe",
+  "category": "frappe",
+  "categoryLabel": "Frappe",
+  "description": "Caramel-flavored espresso blended with ice. Sweet, frosty, and energizing.",
+  "allergens": "milk",
+  "image": "/assets/products/frappe/orig.jpg",
+  "price": 16000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "frappe-hazelnut-latte-frappe",
+  "name": "Hazelnut Latte Frappe",
+  "category": "frappe",
+  "categoryLabel": "Frappe",
+  "description": "Toasted hazelnut blended with ice and milk. Nutty, creamy, and delightful.",
+  "allergens": "milk, nuts",
+  "image": "/assets/products/frappe/hazelnut.jpg",
+  "price": 16000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "frappe-tiramisu-frappe",
+  "name": "Tiramisu Frappe",
+  "category": "frappe",
+  "categoryLabel": "Frappe",
+  "description": "Tiramisu-flavored blended drink with cocoa and cream. Dessert in a glass.",
+  "allergens": "milk",
+  "image": "/assets/products/frappe/tiramisu.jpg",
+  "price": 16000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "frappe-dark-mocha-frappe",
+  "name": "Dark Mocha Frappe",
+  "category": "frappe",
+  "categoryLabel": "Frappe",
+  "description": "Dark chocolate blended with espresso and ice. Rich, bold, and indulgent.",
+  "allergens": "milk",
+  "image": "/assets/products/frappe/dark-mocha.jpg",
+  "price": 16000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "frappe-java-chip-frappe",
+  "name": "Java Chip Frappe",
+  "category": "frappe",
+  "categoryLabel": "Frappe",
+  "description": "Chocolate chips blended with coffee and ice. Crunchy, creamy, and irresistible.",
+  "allergens": "milk",
+  "image": "/assets/products/frappe/java.jpg",
+  "price": 16000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "fruit-tea-lychee-fruit-tea",
+  "name": "Lychee Fruit Tea",
+  "category": "fruit-tea",
+  "categoryLabel": "Fruit Tea",
+  "description": "Sweet lychee fruit tea with real lychee pieces. Tropical, refreshing, and naturally sweet.",
+  "allergens": "",
+  "image": "/assets/products/fruit-tea/lychee.jpg",
+  "price": 10000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 10000
+   },
+   {
+    "label": "Large",
+    "price": 11000
+   }
+  ]
+ },
+ {
+  "id": "fruit-tea-mango-fruit-tea",
+  "name": "Mango Fruit Tea",
+  "category": "fruit-tea",
+  "categoryLabel": "Fruit Tea",
+  "description": "Fresh mango blended with tea. Tropical, sweet, and utterly delicious.",
+  "allergens": "",
+  "image": "/assets/products/fruit-tea/mango.jpg",
+  "price": 10000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 10000
+   },
+   {
+    "label": "Large",
+    "price": 11000
+   }
+  ]
+ },
+ {
+  "id": "fruit-tea-green-apple-fruit-tea",
+  "name": "Green Apple Fruit Tea",
+  "category": "fruit-tea",
+  "categoryLabel": "Fruit Tea",
+  "description": "Tart green apple blended with tea. Crisp, refreshing, and tangy.",
+  "allergens": "",
+  "image": "/assets/products/fruit-tea/green-apple.jpg",
+  "price": 10000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 10000
+   },
+   {
+    "label": "Large",
+    "price": 11000
+   }
+  ]
+ },
+ {
+  "id": "fruit-tea-strawberry-fruit-tea",
+  "name": "Strawberry Fruit Tea",
+  "category": "fruit-tea",
+  "categoryLabel": "Fruit Tea",
+  "description": "Fresh strawberry tea with real fruit pieces. Sweet, fruity, and refreshing.",
+  "allergens": "",
+  "image": "/assets/products/fruit-tea/strawberry.jpg",
+  "price": 10000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 10000
+   },
+   {
+    "label": "Large",
+    "price": 11000
+   }
+  ]
+ },
+ {
+  "id": "fruit-tea-passionfruit-fruit-tea",
+  "name": "Passionfruit Fruit Tea",
+  "category": "fruit-tea",
+  "categoryLabel": "Fruit Tea",
+  "description": "Tropical passionfruit blended with tea. Tart, aromatic, and exotic.",
+  "allergens": "",
+  "image": "/assets/products/fruit-tea/passion-fruit.jpg",
+  "price": 10000,
+  "sizeNote": "Regular / Large",
+  "sizes": [
+   {
+    "label": "Regular",
+    "price": 10000
+   },
+   {
+    "label": "Large",
+    "price": 11000
+   }
+  ]
+ },
+ {
+  "id": "sparkle-sweet-sakura",
+  "name": "Sweet Sakura",
+  "category": "sparkle",
+  "categoryLabel": "Sparkle",
+  "description": "Delicate cherry blossom-flavored sparkling drink. Floral, sweet, and effervescent.",
+  "allergens": "",
+  "image": "/assets/products/sparkle/sparkle-sakura.jpg",
+  "price": 13000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "sparkle-rouge-punch",
+  "name": "Rouge Punch",
+  "category": "sparkle",
+  "categoryLabel": "Sparkle",
+  "description": "Bold berry-flavored sparkling punch. Fruity, vibrant, and refreshing.",
+  "allergens": "",
+  "image": "/assets/products/sparkle/rouge-punch.jpg",
+  "price": 13000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "sparkle-sour-candy",
+  "name": "Sour Candy",
+  "category": "sparkle",
+  "categoryLabel": "Sparkle",
+  "description": "Sour candy-flavored sparkling drink. Tangy, sweet, and fun.",
+  "allergens": "",
+  "image": "/assets/products/sparkle/sour-candy.jpg",
+  "price": 13000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-milk",
+  "name": "Milk",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Add creamy milk to any drink.",
+  "allergens": "milk",
+  "image": "",
+  "price": 1500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-nata",
+  "name": "Nata",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Chewy nata de coco topping.",
+  "allergens": "",
+  "image": "",
+  "price": 1500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-pearl",
+  "name": "Pearl",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Classic tapioca boba pearls.",
+  "allergens": "",
+  "image": "",
+  "price": 1500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-yakult",
+  "name": "Yakult",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Probiotic Yakult shot.",
+  "allergens": "milk",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-oreos",
+  "name": "Oreos",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Crushed Oreo cookie topping.",
+  "allergens": "gluten, milk",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-caramel-drizzle",
+  "name": "Caramel Drizzle",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Sweet caramel sauce drizzle.",
+  "allergens": "milk",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-cheesecake-bits",
+  "name": "Cheesecake Bits",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Creamy cheesecake chunks.",
+  "allergens": "milk, egg, gluten",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-cream-cheese",
+  "name": "Cream Cheese",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Creamy cheese foam topping.",
+  "allergens": "milk",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-popping-boba",
+  "name": "Popping Boba",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Fruit-flavored popping boba.",
+  "allergens": "",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-choco-syrup",
+  "name": "Choco Syrup",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Rich chocolate syrup drizzle.",
+  "allergens": "",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-stevia",
+  "name": "Stevia",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Natural stevia sweetener.",
+  "allergens": "",
+  "image": "",
+  "price": 1000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-muscovado",
+  "name": "Muscovado",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Raw muscovado sugar.",
+  "allergens": "",
+  "image": "",
+  "price": 1000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-choco-brownie-bits",
+  "name": "Choco Brownie Bits",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Crumbled brownie pieces.",
+  "allergens": "milk, egg, gluten",
+  "image": "",
+  "price": 2000,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-espresso-shot",
+  "name": "Espresso Shot",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Extra shot of espresso.",
+  "allergens": "",
+  "image": "",
+  "price": 2500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-chia-seeds",
+  "name": "Chia Seeds",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Healthy chia seeds topping.",
+  "allergens": "",
+  "image": "",
+  "price": 2500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-hershey-s-choco-syrup",
+  "name": "Hershey's Choco Syrup",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Hershey's chocolate syrup drizzle.",
+  "allergens": "",
+  "image": "",
+  "price": 2500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-honey",
+  "name": "Honey",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Natural honey sweetener.",
+  "allergens": "",
+  "image": "",
+  "price": 2500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-coffee-jelly",
+  "name": "Coffee Jelly",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Chewy coffee jelly cubes.",
+  "allergens": "",
+  "image": "",
+  "price": 2500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-whipped-cream",
+  "name": "Whipped Cream",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Fluffy whipped cream topping.",
+  "allergens": "milk",
+  "image": "",
+  "price": 2500,
+  "sizeNote": "",
+  "sizes": []
+ },
+ {
+  "id": "add-ons-choco-kisses",
+  "name": "Choco Kisses",
+  "category": "add-ons",
+  "categoryLabel": "Add-ons",
+  "description": "Mini chocolate kisses topping.",
+  "allergens": "milk",
+  "image": "",
+  "price": 2500,
+  "sizeNote": "",
+  "sizes": []
+ }
+]
